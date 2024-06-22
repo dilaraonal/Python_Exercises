@@ -1,3 +1,5 @@
+### Exercises for Python Language
+In this project, 3 questions were solved using Python language. Explanations regarding these questions are given below.
 **Exercises 1**
 
 Write a Python script that calculates and prints the sum and average of the digits in the given string, my_str.
